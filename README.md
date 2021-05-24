@@ -1,1 +1,3 @@
-# RSL_Negation_Phonetic_Analysis-
+# RSL_Negation_Phonetic_Analysis
+
+Репозиторий с кодом, использованным при выполнении курсовой работы "Фонетический анализ отрицательных поворотов головы в РЖЯ с использованием Computer Vision"
